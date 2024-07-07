@@ -1,5 +1,6 @@
 Understanding different aspects of LLM components
 Background:
+
 The main aim of this blog is to demystify the LLM's terminology, explaining their functions,their importance and how they contribute to the effectiveness of the LLMs.
 In the rapidlly evolving landscape of NLP and AI's LLMs such as OpenAI's GPT series have become fronrunner and shown unprecedented capabilities, able to generate and process
 vast amount of texts, understand complex query and how it contribute in the effectiveness of the LLM models. There are 2 fundamental concepts behind the LLM's 
@@ -8,3 +9,4 @@ vast amount of texts, understand complex query and how it contribute in the effe
 Encoders with the context of LLMs are algorithmic structure designed to process and transform input text into a suitable format that the models can understand and process.
 This process contains several layers of complex computation, where each layer presents different aspect of languages's syntax, symantics and context.
 
+https://medium.com/@sharifghafforov00/understanding-encoders-and-embeddings-in-large-language-models-llms-1e81101b2f87#:~:text=Encoders%20in%20the%20context%20of,syntax%2C%20semantics%2C%20and%20context.
