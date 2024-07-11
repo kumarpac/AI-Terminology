@@ -21,4 +21,13 @@ GenAI is powered by ML Model
 
 Traditional Model - customers needs to gather label data, train model and deploy the model. This must be repeated for
 each specific tasks.
+
+Foundation Model-Instead of gathering label data for each model and training multiple models. Customer can use same pre-trained
+model to adopt  multiple tasks
+Customer can even differentiate their business by customizing FM to perform domain specific functions..
+
+Types of Foundation model in the market..
+text-to-text- summarize text, extract information, respond to questions, create content like blog
+sentence auto completioin
+text-to-embeddings- comparing user request with catalog data.
     -
