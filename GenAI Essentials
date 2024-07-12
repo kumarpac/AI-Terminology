@@ -1,3 +1,8 @@
+================================================
+https://aws.amazon.com/generative-ai/
+=============================================
+
+
 GenAI is high in demand, but how you will deploy in safe, trusted mananer
 Ready to begin... let's get started....
 GenAI has captured our attention and imgination
@@ -193,3 +198,205 @@ identify relevant datasets, methods, models, and techniques to train their own F
 
 Customers can use Amazon SageMaker fully managed tools for data labeling, 
 large-scale distributed training, ML operations, monitoring, and model governing
+
+
+Customer use case:
+
+1)Enhancing the customer experience
+2)Boosting employee productivity
+3)Improving business operations
+
+1. Enhancing the customer experience
+Business outcomes include the following:
+
+Improving customer engagement with seamless omnichannel access to virtual agents across different collaboration tools and channels
+Empowering customers to quickly find answers and complete transactions on their own by implementing conversational voice and text-based chatbots
+Discovering business insights out of real-time or recorded conversations to detect emerging trends
+
+Example: Professional Golfers' Association of America (PGA) Tour 
+
+Challenge	
+The PGA faced challenges in improving the fan experience. 
+Golf fans desired real-time leaderboards, faster access to tournament updates, 
+access to player information, and a better PGA app experience.
+
+Solution	
+The PGA partnered with the AWS Generative AI Innovation Center to develop a proof of concept (POC) 
+using Amazon Bedrock.  The virtual assistant that is fully managed by Amazon Bedrock uses technologies like
+retrieval-augmented generation (RAG(opens in a new tab)), prompt engineering, and vector data stores
+in a secure AWS environment. For more information, see What is RAG(opens in a new tab)?
+
+Impact on customer business
+This virtual assistant could summarize player information and evaluate game performance. 
+It provided golf fans, broadcasters, and content producers with new insights.
+
+Self-service virtual agents
+Self-service virtual agents can help customers to quickly find answers and complete transactions independently, without needing to 
+interact with a live agent
+
+
+Call analytics
+Call analytics can generate insights from real time or recorded conversations. This helps agents and supervisors to better understand customer needs, 
+pinpoint call drivers, and detect emerging trends.
+
+
+Example: WIX is a cloud-based development platform for building fully personalized, high-quality websites.
+
+Challenge	Wix wanted to extract insights and expand their customer sentiment visibility from thousands of calls 
+each day. They were sampling a small set of conversations to analyze the content manually.
+
+Solution	Wix used Amazon Transcribe, a speech-to-text service, to convert conversations into usable data with a 92 percent accuracy rate. They were able to analyze 100 percent of the conversations.
+Impact on customer business
+
+Wix has now expanded visibility of customer conversation sentiment from 12 percent to 100 percent.
+
+
+Agent assist
+Agent assist can boost agent effectiveness and enhance customer experience by quickly 
+surfacing relevant, actionable information from knowledge bases.
+
+Example: Slack is a cloud-based team communication platform.Challenge	Slack needed to provide users
+with fast and accurate transcripts for live captioning. Multi-language and language identification support was 
+also required to successfully scale globally.
+
+Solution	Slack Huddles connect users to each other and uses Amazon Transcribe and Amazon Chime SDK 
+to offer live subtitles and post-call transcripts so no details are lost.
+Impact on customer business
+This integration minimized Slack’s involvement with daily IT management—leaving much needed time to focus on pushing more innovative products to market. It also offered improvements to the user experience because now users can easily follow along with captions and quickly find clips later in the 
+search bar with a single keyword.
+
+2. Boosting employee productivity
+Business outcomes include the following:
+
+Improving productivity of internal teams that keep systems running
+Saving time and improving accuracy as the system automatically trains on each customer's information
+Creating faster time to market
+Reducing cost of service
+
+Summarization
+Summarization saves time by generating summaries of long documents and distilling key facts, 
+conclusions, and highlights.
+
+Challenge	Wunderkind had a large amount of proprietary data. They had difficulty looking across multiple data
+silos to find the right answer and distill the information into quick, actionable insights.
+
+Solution	Integrating Amazon Q as a top layer over their content and data repositories has brought 
+efficiency gains to customer success and marketing teams.
+
+Pawan estimates that using Amazon Q will reduce the time spent on content discovery alone by over 30 percent.
+This empowers the success team to service clients faster and with greater accuracy. 
+Amazon Q also accelerates the creation of sales and marketing content like email campaigns, whitepapers, and ad copy. 
+With Amazon Q streamlining content creation, Wunderkind anticipates being able to speed up the overall content production process by nearly 50 percent. 
+The team can shift their focus from manually creating materials from scratch to scaling content personalization efforts.
+
+
+Conversational experience
+With conversational experience, employees can ask questions in natural language. 
+Interactive dialog refines and clarifies queries for faster access to desired information. 
+
+
+allenge	REPAY wanted employees to be able to analyze internal data faster through their own generative AI solution. 
+However, building and maintaining such a solution in-house diverted time from other high-value initiatives and product innovations that could better serve customers.
+Solution	With built-in connectors and access to a pre-built webpage, REPAY was able to quickly integrate their existing custom REPAY Chatbot UI to the Amazon Q implementation within two sprints. Using the Amazon Kendra retriever, they were able to rapidly search and index different private data sources to provide accurate and timely information to their internal users.
+Impact on customer business
+The simple, intuitive interface of Amazon Q helped teams across their organization to sort through and analyze information, so they could get work done faster. 
+Equipped with the power to gather and act on information rapidly, REPAY employees can make more informed decisions while focusing on higher value tasks.
+
+Data to insights
+Moving data to insights by automatically analyzing large datasets to uncover patterns, trends, and anomalies.
+
+3. Improving business operations
+
+Business outcomes include the following:
+
+Improving employee productivity
+Increasing operational efficiencies
+Enhancing customer experiences
+
+Data extraction
+Extracting data by automating the manual process frees employees to focus on high-impact, 
+value-adding tasks instead of repetitive entry. 
+
+Challenges    Solution     Impact on customer business
+
+Retrieve insights
+Retrieving insights by simplifying data extraction and automating document workflows, 
+which reduces the average cost per document.
+
+Manage document processing workflows
+
+Manage document processing workflows while summarizing and retrieving insights by automating rapid and more accurate claims processing. This is achieved by using AI 
+to accomplish in days what traditionally takes weeks or months.
+
+This solution gives legal professionals a significant competitive advantage by driving improved speed, productivity,
+and work quality gains for law firms and their clients
+
+
+Other Use cases By Industry
+======================================
+1)Healthcare
+========
+Medical research: Patient-to-trial matching, multi-modal data analysis
+Clinical efficiency: Longitudinal patient records for full patient picture, automate medical image interpretation
+Operational efficiency: Auto-generate referral letters, clinical coding, and prior authorization
+Patient experience: Patient outcome prediction, personalized patient discharge instructions and treatment plans
+Digital health: Patient care concierge, remote care management
+
+2)Life sciences
+=========================
+Research and discovery: Protein folding, protein design
+Clinical development: Optimizing trial protocols, patient cohorts, and sites
+Manufacturing: Predictive maintenance, resource optimization
+Commercial and medical affairs: Patient outcome prediction, content generation
+Patient support: Patient care concierge, patient-to-trial matching
+
+3)financial Services
+=======================
+AI-managed portfolios: 
+Create highly tailored investment strategies and portfolios aligned to specific 
+financial goals and risk profiles Increase the business value of unstructured content: Create on-demand structured data products 
+from large unstructured data sources such as emails, document repositories, and filings
+
+Drive product innovation and automate business processes:
+Develop new tools, such as stock screening using natural language search, for end-users
+
+Intelligent advisory: 
+Automatically translate complex questions from internal users and external customers
+into their semantic meaning, analyze for context, and then generate highly accurate and conversational responses
+
+Transform financial documentation: 
+Quickly draft investment research, loan documentation, insurance policies,
+regulatory communications, requests for information (RFI), and business correspondence
+
+4) Manufacturing
+=====================================
+Operational efficiency: Text generation for contracts and SOPs, customer service and agent assistants, 
+research and summarization for supply-chain optimization
+
+Reduce time and cost of production: Agents and search for plant maintenance, operations, and research
+Product design optimization: Generate and enhance new product design, market and customer research to support market 
+development
+Real-time equipment diagnostics: Ingest historical data and diagnose equipment failures in real time to 
+recommend maintenance actions
+Training content generation: Generative conversational agents can be trained on product manuals, 
+troubleshooting guides, and maintenance notes to deliver swift technical support to workers, reducing downtimes
+
+5) Retail
+=====================================
+Better customer experience: Provide shoppers with a more natural, personalized experience at scale, 
+use natural language to narrow products down to what the customer is specifically looking for
+
+Data insights: Consume large amounts of data like sales, returns, or product reviews to summarize trends
+
+Optimized operations: Make better merchandising decisions, automate the generation of product categories 
+and decisions, track vessels through scraping public vessel or freight locations and associate it with ordered 
+freight to gain real-time visibility of goods
+
+Enhanced marketing: Generate SEO-optimized copy for landing pages, blogs, and social media posts, 
+generate product images or models without having to use photography
+
+5) Media and entertainment
+=====================================
+Text: Narrative generation from sports statistics and news, script summarization, reading and writing assistance
+Images and videos: Render-from-rough storyboarding from sketches, rendering scenes from untextured 3D models
+Audio: Music generation, automated dialogue replacement, script reading, localization
