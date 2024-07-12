@@ -317,6 +317,8 @@ Data extraction
 Extracting data by automating the manual process frees employees to focus on high-impact, 
 value-adding tasks instead of repetitive entry. 
 
+
+
 Challenges    Solution     Impact on customer business
 
 Retrieve insights
@@ -400,3 +402,49 @@ generate product images or models without having to use photography
 Text: Narrative generation from sports statistics and news, script summarization, reading and writing assistance
 Images and videos: Render-from-rough storyboarding from sketches, rendering scenes from untextured 3D models
 Audio: Music generation, automated dialogue replacement, script reading, localization
+
+
+They need their data to stay completely protected, secure, and private
+AWS provides specific-purpose databases, data movement, metadata management, and data governance.
+
+Which statement best describes what differentiates generative AI from other types of machine learning?
+Traditional ML models require gathering labeled data and training and deploying a model for each task. 
+Generative AI models are pretrained on vast collections of 
+
+Generative AI can create blog posts, but it can also generate diﬀerent types of new content and ideas like conversations, stories, images, videos, and music. 
+Many companies are using generative AI to create chatbots
+unlabeled data that can be deployed for multiple tasks
+
+Discuss using Amazon Bedrock because customers can use FMs and fine tune them without 
+being an expert in machine learning or data science.
+
+Generative AI is a type of artiﬁcial intelligence that can create new content and ideas, 
+including conversations, stories, images, videos, and music
+
+If there is a generative AI solution to increase efficiency in their software development department.
+=====================================================================================================
+AWS has a service called Amazon Q Developer that uses Amazon Bedrock to generate code suggestions,
+so this use case is a good fit for generative AI. 
+
+Generating images based on a user’s natural language text input - multimodal model
+
+Which statement best provides a basic description of how generative AI works?
+Generative AI is powered by massive machine learning (ML) models called foundation models (FMs). With FMs,
+customers can use the same pretrained model to adapt to multiple tasks.
+
+With AWS, customers can customize applications with their proprietary data in a secure and private environment.
+
+
+Generative AI can boost employee productivity by automatically analyzing large datasets to uncover patterns, trends, and anomalies. 
+For instance, by using Amazon Q, they could connect and synthesize data across data sources.
+
+Question
+===================
+A customer from AnyCompany recently sent you an email asking how they can use generative AI to help employees
+analyze internal data faster. They are worried that building and maintaining an in-house solution would reduce
+the time employees could be spending on other high-value initiatives for customers.
+Which response best describes whether generative AI is an effective solution for this customer?
+
+A retail customer sets up a meeting to discuss generative AI. They want to use the new technology in their online retail application, but they do not want to spend time managing it. 
+They ask for the easiest way to build and scale generative AI for their business.
+Amazon Bedrock
