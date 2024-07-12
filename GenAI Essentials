@@ -50,4 +50,32 @@ Why customer should AWS platform for GenAI
     Broadest choice of foundation models.
     Purpose built infrastructure to help you scale
 
+AWS generative AI is a stack of technologies . The stack consists of 3 macro layers
+
+1) Applications that leverage LLMs and Others FMs
+Amazon Q(Business) developer, QuickSight
+2) Tools To build with LLMs And others FMs
+AWS Bedrock
+3) Infrastructure for FM training and inference
+GPUs, Trainium, Inferentia,SageMaker, ultraCluster,Nitro, Neuron
+
+Amazon Q:  A generative AI–powered assistant designed for work that can be tailored  to meet business needs
+
+Top layer
+The top layer provides generative AI applications that customers can use to 
+work with FMs without specialized knowledge or coding
+
+Middle layer
+The middle layer provides tools, like Amazon Bedrock, that can be used to customize and train 
+FMs for customers seeking to develop generative AI applications. 
+This tier also assists customers in evaluating, selecting, and consuming these models through 
+various distribution channels.
+
+Bottom layer
+
+
+
+
+Amazon Q Developer helps developers quickly write secure code by generating whole-line
+and full-function code suggestions in an integrated development environment (IDE).
     -
