@@ -79,3 +79,117 @@ Bottom layer
 Amazon Q Developer helps developers quickly write secure code by generating whole-line
 and full-function code suggestions in an integrated development environment (IDE).
     -
+Amazon Bedrock support leading FMs
+1)Jurassic2
+ Contextual answers, summarization and paraphrasing.
+2)Anthropic - Summarization,complex reasoning,writing and coding.
+3) Cohere:
+Command and embed
+Text generation,search and classification.
+4) Meta- Llama, Dialogue use-cases and language tasks
+5) Mistral - text Summarization,Q&A,text classification,text completion,code generation.
+6) Stable difussion- High quality images and art.
+7) Amazon titan-Summarization,image,text generation and search Q&A
+
+
+AWS Inferentia and AWS Trainium are purpose-built ML accelerators that AWS designed from the ground up.
+
+The first-generation of AWS Inferentia delivers significant performance and cost-savings benefits for deploying smaller models. AWS Trainium and AWS Inferentia2 were built for training 
+and deploying ultra-large generative AI models with hundreds of billions of parameters.
+
+Amazon SageMaker
+SageMaker offers the widest selection of FMs and access to the latest publicly available FMs for faster time to market
+
+Discovery Questions for C-suite business decision makers.
+Discuss their long-term vision & short term goals for AI/ML.
+What is your Vision for AI/ML and your company? What are your business goals for AI for this year
+
+Get insights nto their goals, expectations, and challenges for generative AI/Ml
+What customer experiences or other use- cases do you expect to transform with generative AI.
+How might you improve customer retention by creating more personalized user experiences for your customer?
+
+Understand their priorities in building a generative AI application.
+How would you rank the following 
+
+How would you rank the following in order of importance to choose the right foundation model to build your generative AI application?
+Performance
+Latency
+Cost
+Accuracy
+
+Understand their track record with previous AI/ML projects, and learn about any successes or pain points in working with partners on AI/ML
+
+Have you achieved the business outcomes that you were aiming towards with previous AI and machine learning projects?
+What success or challenges have you had in working with a technology partner to plan and build your AI/ML capabilities?
+What kinds of business operations would you automate first by using AI technology 
+that is capable of generating novel content?
+
+what AWS can do for generative AI in relation to their individual goals.
+Their top priorities are increasing innovation, delivering IT projects quickly, aligning IT performance metrics to business outcomes, 
+and cutting overall IT costs.
+
+Have your software engineering teams begun experimenting with AI-generated code to accelerate
+rudimentary software engineering tasks?
+
+
+Security and compliance: Customers place high priority on data security protections, regulatory compliance, and governance policies. Using secure infrastructure and 
+following best practices helps mitigate risks.
+
+Privacy: Customers want assurances that models do not disclose private data. Controls should prevent 
+unauthorized data usage during model development
+
+Risk management: Customers are concerned about potential misuse when deploying generative AI applications. Proactive threat modeling and defense-in-depth 
+security controls can help manage risks.
+Identify the key business outcomes your customer wants to achieve, as well as how they measure success. Examples of success metrics can include:
+
+Grow sales and acquire new customers to increase revenue (top line outcome). 
+Reduce product and administrative costs to increase profitability (bottom line outcome). 
+Improve customer sentiment and satisfaction rates (intangible/subjective outcome).
+
+
+Where do you have concerns with the integration of generative AI capabilities into your current operating process and customer engagement activities?
+What existing data and cloud investments have you made as an organization, and what’s your long-term roadmap? 
+Did you achieve the intended business outcomes with previous AI & ML projects? If not, what were the lessons learned? 
+
+Generative AI is a type of AI that can create new content and ideas, 
+including conversations, stories, images, videos, music, code, and more.
+what kind of operational efficiency gains they are looking to achieve by automating that part of the business. 
+
+
+Amazon Titan FMs are built to detect and remove harmful content in the data and reject inappropriate content in the user input. 
+They also filter the model's outputs containing inappropriate content such as hate speech, profanity, and violence.
+
+Guardrails for Amazon Bedrock is another capability that helps you safeguard your generative AI applications with your responsible AI policies. To create a guardrail, Amazon Bedrock provides a configuration wizard so you can enter a natural
+language description of the topics you want the model to avoid.
+
+With Amazon Bedrock, you get the easiest way to build and scale generative AI applications with LLMs and other FMs. 
+Customers in every industry are using Amazon Bedrock to reinvent their user experiences, products, and processes, and to bring AI into the heart of their business. You can do the following with Amazon Bedrock:
+
+Enjoy the broadest choice of industry-leading FMs from AI21 Labs, Amazon, Anthropic, Cohere, Meta, Mistral AI, and Stability AI.
+Customize FMs using your organization’s data.
+Get enterprise-grade security and privacy.
+
+Customer concern
+"I'm concerned about how IP and data are shared and used when customizing base FMs. What information can I share?"
+Sample response
+Amazon Bedrock can fine-tune the model for a particular task without having 
+to annotate large volumes of data (as few as 20 examples is enough). 
+None of the customer’s data is used to train the original base models.
+
+Customers can configure VPC settings to access Amazon Bedrock APIs and provide
+model fine-tuning data in a secure manner where all data is encrypted at rest and in transit.
+
+
+Customer concern
+
+"I'd like to train my own FM. What are my options with AWS?"
+Sample response
+AWS customers run ML models at scale on GPU instances today. AWS has high-performing,
+scalable offerings to support them with the P4d and P4de instances powered by NVIDIA A100 GPUs.
+
+AWS also has the purpose-built AWS Trainium to push the envelope on both performance and
+cost savings for FM training. In addition to infrastructure, AWS can work with customers to 
+identify relevant datasets, methods, models, and techniques to train their own FMs.
+
+Customers can use Amazon SageMaker fully managed tools for data labeling, 
+large-scale distributed training, ML operations, monitoring, and model governing
