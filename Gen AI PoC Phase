@@ -1,0 +1,67 @@
+After the initial assessment and strategizing, customers often request a Proof of Concept (PoC) 
+to validate 
+1)the technical feasibility,
+2)business impact,
+3)and organizational readiness for the new solution.
+
+After PoC iterate the strategy and evalautaion phase process.he following are the main activities during the PoC phase,
+along with their goals.
+
+Define PoC success criteria.
+Deﬁne a specific and measurable outcome from the PoC that will eﬀectively show it was successful.
+Deﬁne the design criteria and readiness for the PoC from a systems and data perspective.
+
+Evaluate data readiness
+Ask your customer: "Are you having any challenges with how your data is currently stored?"
+
+Continue Ops model planning
+In the Strategy and Evaluation phase, you may have started discussing model selection with your customer.
+During the PoC phase,Ops model planning will continue, and the following can occur.
+        Identify parameters that maximize performance metrics (for example, price, latency, and accuracy).
+        Adapt the chosen model, the selection from pre-training, fine tuning, or in-context learning.
+        Plan the implementation, confirm technical feasibility, and assess the ROI.
+        Identify and select the model features that perform best for the specific use case scenario.
+        Potentially build multiple versions of a POC to compare different components.
+Plan to progress from PoC to Implementation
+        Have a clear understanding of end goals and next steps early on in the PoC design phase. 
+        Ensure that your customers can integrate end goals into their PoC approach as needed, minimizing
+        the risk of stalling in the PoC phase (also known as PoC purgatory).
+        The plan may include understanding key stakeholders, budgets for the project, resource availability or constraints,
+        and having a timeline to show the business results and impact. 
+
+To stay within project scope, ensure that you have your responsible guard rails in place. 
+
+Standard metrics include:
+
+Top Line revenue impact – Grow sales by adding new value added offerings and win new customers.
+Bottom Line – Reduce product costs and finance and administrative costs.
+Intangible or Subjective – Stay relevant with tech, customer sentiment, and satisfaction rates.
+
+Customers may face the challenge of ending up in PoC purgatory if they have not definitively 
+reached the goals of the preliminary activities presented earlier
+
+So it's important to ensure that all leadership teams are aligned on the goals and success outcomes 
+of the project during both the Strategy and PoC phases.
+During the PoC phase, some top challenges and considerations for customers include:
+Complex workflows:
+The interdependence of workflows increases the risk of errors that spread across systems. 
+Data is not seamlessly integrated and data does not flow well across business units.
+Poor data quality
+Poor quality data imposes a barrier to at-scale adoption.
+Siloed data architecture
+Legacy data silos obstruct efficient access to unified data that is essential for ML model training and fine-tuning
+Legal and cybersecurity issues
+Sensitive data must be handled correctly, even during the PoC phase.
+
+what partners can do?
+Partners can help customers complete necessary tasks and address a few of the considerations in 
+this phase by taking the following actions.
+
+Create a standardized PoC offering for customers that:
+Includes a defined scope with a timeline to avoid PoC purgatory
+Is included in your marketplace (such as blueprints and startup kits) 
+Has customizable options for specific industry and use cases
+Takes into account your customer's data readiness. A consistent roadblock from moving to PoC to 
+implementation is data readiness.
+
+
