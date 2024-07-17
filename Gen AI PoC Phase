@@ -92,4 +92,65 @@ through prompt engineering. Validate foundation model (FM) outputs through decla
 Organizational change management
 Change management is a set of processes designed to help customers successfully implement their generative AI solutions and manage any reorganization. The goal of change management is to ensure success by creating a comprehensive 
 plan to launch and track the impact of the generative AI implementation.
+        Outline who is responsible for completing specific tasks. 
+        Implement team training. 
+        Reassess metrics and protocols to ensure high adoption rates.
+        Collect human feedback to allow the development team to validate that the AI system is behaving as 
+        intended and producing outputs that align with the desired functionality.
 
+During the Implementation phase, some top challenges and considerations for customers include:
+Multiple downstream dependencies
+In-efficient interface between legacy system, process and s/w may obstruct the whole cycle.
+Poor data maturity
+        Incomplete, outdated and inaccurate information may end-up with an issue.
+        Disorganized data can be difficult for machines to understand and analyze correctly.
+Lack of clear understanding regarding risks and availability of relevant safety test cases 
+Lack of mechanisms to support change management
+    Tracking and monitoring of related operating metrics 
+
+What partner can do?
+Help to create a minimally viable product (MVP)
+   If your customer is not ready for a full scaled implementation, an MVP is a good progression milestone.
+Provide comprehensive implementation services that can be customizable to customer needs.
+            Plan to move from testing and experimentation to production by incorporating best practices. 
+            Offer guidance and assistance to ensure proper orchestration.
+            Provide data preparation services.
+            Help develop, define, and codify guardrails.
+
+Enhance the organization’s change management approach
+        Develop a strategy for business value.
+        Capture business value in production.
+Build CoE
+customers setup an Enterprise CoE to get traction on their generative AI solution. 
+
+Moving past roadblocks to production
+Moving from PoC to production requires investment and consideration.
+Operate-
+This involves managing the ML pipelines, which may encompass FM or ML models, model 
+training, model deployment, and model inference.
+integrating DevOps practices to ensure seamless model updates, scalability, and reliability
+implementing robust monitoring and alerting mechanisms to track model performance, data quality, 
+and system health in the production environment.
+Scale Data-
+When building a generative AI application, data access and processing should be consistent, reliable, and automated
+Considerations to keep in mind include: governance, access, as well as extract, transform, and load (ETL). 
+Integrate-
+The process of seamlessly connecting various components of the generative AI system, including FM and LLM models, data sources, and supporting 
+infrastructure, to create a cohesive and streamlined workflow
+Legal-
+The legal landscape regarding regulation changes and responsible use cases for generative AI is evolving.
+Security-
+Generative AI can raise data privacy concerns. Partners need security measures like encryption 
+and access controls to restrict certain data.
+Additionally, access management is important to enforce rules on who can view sensitive documents. 
+Finally, guardrails provide layers of protection, including defensive prompting, personally identifiable information (PII) 
+removal, URL validation, and inappropriate content detection.
+Considerations to keep in mind include: guardrails, access management, and data privacy.
+
+Change management
+Generative AI requires thoughtful change management that include the following:
+
+    Training end users on the technology's capabilities and limitations
+    Clearly communicating role changes
+    Implementing feedback loops so that users feel in control of the new technology
+A key activity during the Implementation phase is integrating the generative AI solution with existing systems and processes.
