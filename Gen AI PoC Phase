@@ -64,4 +64,32 @@ Has customizable options for specific industry and use cases
 Takes into account your customer's data readiness. A consistent roadblock from moving to PoC to 
 implementation is data readiness.
 
+Implementation Phase:
+The Implementation phase is the transition from a PoC to a fully operational generative AI solution. The solution must meet your customer's organizational needs and achieve the goals
+defined during the Strategy & Evaluation phase
+During the Implementation phase, consider the operational aspect of the generative AI solution in production. This includes verifying that upstream and downstream systems are operational without failure and there is governance in place,
+according to the enterprise standards and requirements.
+
+The following are the main activities during the Implementation phase, along with their goals.
+Orchestration
+This involves the automated configuration, coordination, and management of systems and processes. 
+Orchestration is critical to successfully scale a generative AI implementation
+Actions: 
+
+    Provide a consistent API interface
+    Perform prompt chaining 
+    Integrate multiple large language models (LLMs) pipelines
+    Take action to the external system
+Data Preparations
+Good quality, well-organized data is essential to the success of a generative AI implementation
+Guardrails;
+Guardrails are a way to keep a process in line with expectations. In the case of generative AI, they are the filters, rules, and tools that sit between inputs, the model, and outputs. 
+Guardrails are implemented to safeguard an application's requirements and ensure responsible AI policies.
+
+Actions: Reduce the likelihood of erroneous or toxic outputs and unexpected formats, such as hallucinations and jailbreaking, 
+through prompt engineering. Validate foundation model (FM) outputs through declarative statements on measurable features
+
+Organizational change management
+Change management is a set of processes designed to help customers successfully implement their generative AI solutions and manage any reorganization. The goal of change management is to ensure success by creating a comprehensive 
+plan to launch and track the impact of the generative AI implementation.
 
