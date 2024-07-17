@@ -1,1 +1,11 @@
+What exactly is a RAG and how does it reduce risk?
+RAG is one of the fastest ways to use your custom data to customize the outputs of an existing model that was not
+made with your specific data set in mind.
 
+With RAG, or retrieval augmented generation, there is no need to retrain that model 
+and the external data used to augment your prompts can come from multiple data sources including document repositories,
+databases, and APIs
+
+he thing is that using RAG reduces the risk of undesired results by adjusting its output to the data retrieved 
+from knowledge libraries. So, in a nutshell, centralizing and normalizing your data should be your first step as 
+you build a gen AI plan with a goal of getting to production as quickly as possible.
