@@ -1,1 +1,82 @@
+The pace of the generative AI industry is evolving rapidly, it is essential to support them through each phase of the journey.
+The customer journey involves four phases to move from
+1)strategy and evaluation
+2)proof of concept
+3)implementation
+4)monitoring & scaling
 
+The purpose of the Strategy & Evaluation phase:
+              is to determine what the customer wants generative AI to do for their business.
+PoC-
+              After the initial assessment and strategizing, customers will often request a proof of concept (PoC) to
+              validate the technical feasibility, business impact, and organizational readiness for the new solution.
+The Implementation phase:
+              is the transition from a PoC to a fully operational generative AI solution.
+M& Scalling: 
+              This phase involves scaling the generative AI solution up to accommodate larger datasets, 
+              serve more departments (if applicable), and add new features
+
+1)strategy and evaluation
+The purpose of the Strategy & Evaluation phase is to identify the business and operational problems and how generative AI can be
+used to address practical solutions.
+ It is also used to determine which initiatives can be improved or complemented,
+ and how to deploy generative AI to achieve results.
+
+When engaging your customers regarding generative AI, you should be prepared to 
+support customers through four key topics
+
+1)Initial assessment and use case identification
+    1)Understand your customer's current data and cloud infrastructure investments.
+    2)Evaluate data readiness.
+    3)Identify and group generative AI use cases and build a roadmap for testing and implementation.
+    4)Define business objectives for any generative AI pilots.
+    5)Ask about technical requirements.
+    6)Figure out their business problems and operating challenges.
+
+Solution engineering and design 
+    1)Establish the design criteria and function of the generative AI solution.
+    2)Help your customers decide whether to develop the solution in-house or purchase an existing solution. 
+    3)Conduct training for business and technical teams.
+    4)Ensure proper data access.
+
+Model selection
+    1)Based on your customer's prioritized use case and operational goals, identify the models that could be 
+      a fit to evaluate.
+    2)Understand the alignment training approach and integrated safeguards of models that you are considering.
+
+Project scoping and cost analysis
+    1)Complete an initial assessment of direct and indirect costs. Note that in later phases, you will 
+      have additional details to do a more thorough analysis.
+    2)Identify time and talent requirements.
+    3)Build an understanding of operational implications and dependencies of productionizing the 
+      solution (for example, MLOps foundations).
+
+2)Challenges and unique considerations
+Customers face unique challenges at each stage of their generative AI adoption journey.
+During the Strategy and Evaluation phase, some top challenges and considerations for customers include:
+Trouble keeping up as generative AI technology evolves rapidly.
+Distinguishing fact from fiction amid the volume of marketing information on generative AI.
+Lack of clarity about return on investment (ROI) on generative AI investments.
+    There can be a lack of clarity about ROI. The value of generative AI can be difficult to estimate
+    because its upside derives from metrics that are hard to quantify, such as customer service quality.
+Lack of understanding around generative AI can amplify security concerns
+    Security challenges that customers may face include
+       Regulatory uncertainty
+       Data privacy
+       IP sovereignty concerns
+       Security concerns
+       Output quality and consistency
+       Lack of data access or poor data quality 
+       Lack of culture and skills required to innovate
+3)What Partners can do
+    Develop strategic content
+    Provide generative AI advisory services
+        Help customers create a data strategy for generative AI.
+        Provide support to identify use cases, estimate ROI, and assess implementation and scale up costs.
+        Help customers drive business stakeholder alignment.
+        Provide customers with product demos and hands on experience with generative AI.
+        Educate customers on industry specific trends and adoption examples. 
+        Provide ideation workshops.
+     Standardize cost estimation
+       Use AWS cost estimation tools and build comprehensive cost calculators to help customers perform a total cost of ownership (TCO) analysis for generative AI.
+       Templatize these tools and make them readily accessible to customers.
