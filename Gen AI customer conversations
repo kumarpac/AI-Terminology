@@ -1,1 +1,23 @@
+The purpose of this conversation 
+to help customers start thinking about generative AI solutions now, and provide data around the impacts 
+of growing and modernizing their business with generative AI. 
 
+-to ask how the company is navigating the topic of generative AI today
+- to ask about the investments they are making in data and AI.
+- next informed the customer of industry specific insights relevant to the company around the trends and outlook in generative AI.
+  This helps the customer understand the importance and potential of generative AI in their business.
+- to create a sense of urgency and awareness around the pace of adoption in their industry
+
+To guide customers towards thinking about their investments and have future-forward-looking
+ 
+-how Amazon Q manages my data:
+Amazon Q provides access control policies with roles and identities. So, if data access is denied outside of Q,
+it will also be denied within Amazon Q. An important point to highlight is that for users who sign up for Amazon Q developer Pro,
+or Amazon Q Business plans, no data is used to improve the underlying models for others. So your data is your differentiator.
+
+Questions: how do I keep my data secure when using generative AI? And second is how do I explain the results? 
+          how do we get comfortable with system generated outputs, especially under generative AI, 
+          where the reasoning for the answers isn't always clear?
+          you can retrain models with knowledge-based content periodically; or you can also use some cost effective AI techniques
+          like retrieval augmented generation, or RAG. But regardless of retraining models or using RAG, 
+          having people in the loop to verify and reinforce the model is also usually something that I recommend
