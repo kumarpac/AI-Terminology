@@ -1,4 +1,35 @@
- Steps to take for Pilot Generative AI 
+Large enterprises are looking to adapt to generative AI to 
+1)improve efficiency and productivity,
+2)enhance creativity and innovation, 
+3)Improve decision-making and analytics, 
+4)and personalize customer experiences.
+
+Note: Enterprises also enhance their services to create a competitive edge and address risk management and regulatory compliance.
+
+Before finalize any business case enterprise consider following things
+ 1)Response time, 
+ 2)cost,
+ 3)data privacy,
+ 4)and specialized needs like On-Device Intelligence to finalize the business case.
+
+We are shifting from single and monolithic models to compound systems to address the limitations
+single-modeled AI systems have showcased remarkable capabilities, they also revealed significant limitations.
+1)Lacked versatility
+2)and adaptability 
+3)and often failed to adjust to dynamic environments. 
+
+A compound AI system typically consists of multiple components working together.
+These components may serve different purposes within the system, such as handling different stages of a task, providing complementary functionalities, or 
+handling different kinds of data, while interacting with each other and collaboratively completing the task
+
+Compound AI Systems-
+Large Language Model (LLM)
+Image generation component
+Diffusion model
+User feedback integration
+Ranking and selection component
+
+Steps to take for Pilot Generative AI 
 1. Identified The Business Use Case 
 
  Get input from the business on potential use cases. 
