@@ -1,1 +1,37 @@
+what is responsible Gen AI?
+A balanced approach that customers can use to benefit from all that generative AI offers while 
+ensuring the safe, secure, and transparent development of the technology.
 
+Responsible AI as the following eight key dimensions
+1)fairness, 
+2)explainability,
+3)veracity and robustness,
+4)privacy and security,
+5)governance,
+6)transparency, 
+7)controllability,
+8)and safety.
+
+Fairness
+Considering impacts on different groups of stakeholders
+Explainability
+Understanding and evaluating system outputs
+Veracity and Robustness
+Achieving correct system outputs, even with unexpected or adversarial inputs
+Privacy and security
+Appropriately obtaining, using, and protecting data and models
+Governance
+Enabling stakeholders to make informed choices about their engagement with an AI system
+Transparency
+Incorporating best practices into the AI supply chain, including providers and deployers
+Controllability
+Having mechanisms to monitor and steer AI system behavior
+Safety
+Preventing harmful system output and misuse
+
+AWS integrates responsible AI principles and practices into their services and tools to empower customers 
+to build, deploy, and operate AI applications responsibly
+
+Safeguard your generative AI applications with customers' responsible AI policies
+Evaluate, compare, and select the best foundation model for your customers' use cases -
+use fully managed human review workflows for subjective evaluations, and review metrics and model performance. 
