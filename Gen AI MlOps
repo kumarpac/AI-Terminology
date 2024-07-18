@@ -1,1 +1,18 @@
+Intro to MLOps:
+MLOps is the combination of people, processes, and technology to productionize ML solutions efficiently.
+MLOps involves streamlining and optimizing the deployment, monitoring, and maintenance of ML models in production environments. 
 
+What MLOps can do?
+1)MLOps help customers identify systematic, repeatable solutions to any challenges or lack of efficiencies they might 
+experience around people, processes, data, or technology.
+2)MLOps bridges the gap between machine learning development and operationalization, ensuring that models are deployed 
+quickly and remain reliable, scalable, and secure in production.
+People:Lack of correct training and operating model.
+Process:Manual handovers, governance, and long time-to-value.
+Data:Data-discovery and access difficulty
+Technology:-Fragmented and out-of-date environments
+
+Model management:customers to have internal operational processes that ensure managing model versioning, monitoring model performance, ensuring data
+and model integrity, and addressing ethical considerations surrounding the use of these transformative AI technologies.
+Model Evaluation: There are unique considerations to evaluating foundation model outputs when your customers don’t have labeled test data. 
+In this situation approaches such as human-in-the-loop (HIL) and LLM powered evaluation need to be considered. 
